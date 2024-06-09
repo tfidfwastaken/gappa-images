@@ -1,0 +1,75 @@
+<svg height="640" width="840" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 9/6/2024, 11:13:42 pm -->
+<g transform="translate(158.94665,0)">
+<g id="sankey_flows">
+<path id="flow0" d="M12 196.77083C89.20667 196.77083 89.20667 223.27083 166.41333 223.27083" fill="none" stroke-width="214.66667" stroke="#17becf" opacity="0.45"><title>Twitter Post (5k views) → Expressed interest: 8</title></path>
+<path id="flow3" d="M178.41333 263.52083C338.82667 263.52083 338.82667 183.6875 499.24 183.6875" fill="none" stroke-width="134.16667" stroke="#603727" opacity="0.45"><title>Expressed interest → Went cold: 5</title></path>
+<path id="flow1" d="M12 437.27083C89.20667 437.27083 89.20667 384.27083 166.41333 384.27083" fill="none" stroke-width="107.33333" stroke="#708090" opacity="0.45"><title>BangaloreRoomi Post → Expressed interest: 4</title></path>
+<path id="flow2" d="M178.41333 156.1875C255.62 156.1875 255.62 56.8125 332.82667 56.8125" fill="none" stroke-width="80.5" stroke="#2cc1b5" opacity="0.45"><title>Expressed interest → Saw the place (twitter lead): 3</title></path>
+<path id="flow4" d="M178.41333 357.4375C338.82667 357.4375 338.82667 383.9375 499.24 383.9375" fill="none" stroke-width="53.66667" stroke="#b7af17" opacity="0.45"><title>Expressed interest → Didn't move fast enough: 2</title></path>
+<path id="flow5" d="M344.82667 43.39583C422.03333 43.39583 422.03333 89.77083 499.24 89.77083" fill="none" stroke-width="53.66667" stroke="#603727" opacity="0.45"><title>Saw the place (twitter lead) → Went cold: 2</title></path>
+<path id="flow7" d="M178.41333 411.10417C255.62 411.10417 255.62 550.22917 332.82667 550.22917" fill="none" stroke-width="53.66667" stroke="#0e53ba" opacity="0.45"><title>Expressed interest → Saw the place (discord lead): 2</title></path>
+<path id="flow6" d="M344.82667 83.64583C422.03333 83.64583 422.03333 343.6875 499.24 343.6875" fill="none" stroke-width="26.83333" stroke="#b7af17" opacity="0.45"><title>Saw the place (twitter lead) → Didn't move fast enough: 1</title></path>
+<path id="flow8" d="M344.82667 536.8125C422.03333 536.8125 422.03333 503.6875 499.24 503.6875" fill="none" stroke-width="26.83333" stroke="#d8132a" opacity="0.45"><title>Saw the place (discord lead) → Didn't like the place: 1</title></path>
+<path id="flow9" d="M344.82667 563.64583C422.03333 563.64583 422.03333 610.02083 499.24 610.02083" fill="none" stroke-width="26.83333" stroke="#2dd813" opacity="0.45"><title>Saw the place (discord lead) → Won the flat: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="89.4375" height="214.66667" width="12" fill="#17becf" fill-opacity="1"><title>Twitter Post (5k views):
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="166.41333" y="115.9375" height="322" width="12" fill="#1f77b4" fill-opacity="1"><title>Expressed interest:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="0" y="383.60417" height="107.33333" width="12" fill="#708090" fill-opacity="1"><title>BangaloreRoomi Post:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="332.82667" y="16.5625" height="80.5" width="12" fill="#2cc1b5" fill-opacity="1"><title>Saw the place (twitter lead):
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="499.24" y="62.9375" height="187.83333" width="12" fill="#603727" fill-opacity="1"><title>Went cold:
+7</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="499.24" y="330.27083" height="80.5" width="12" fill="#b7af17" fill-opacity="1"><title>Didn't move fast enough:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="332.82667" y="523.39583" height="53.66667" width="12" fill="#304970" fill-opacity="1"><title>Saw the place (discord lead):
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="499.24" y="490.27083" height="26.83333" width="12" fill="#d8132a" fill-opacity="1"><title>Didn't like the place:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="499.24" y="596.60417" height="26.83333" width="12" fill="#2dd813" fill-opacity="1"><title>Won the flat:
+1</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-157.94667" y="174.86082" width="156.8" height="43.32001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-7.51333" y="196.77083" font-weight="400" font-size="14.4px" dy="-4.91">Twitter Post (5k views)<tspan x="-7.51333" dy="19.32" font-weight="400" font-size="17.6px">8</tspan></text>
+<rect id="label1_bg" class="for_r1" x="106.38833" y="255.0275" width="132.04999" height="43.32001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="172.41333" y="276.9375" font-weight="400" font-size="14.4px" dy="-4.91">Expressed interest<tspan x="172.41333" dy="19.32" font-weight="400" font-size="17.6px">12</tspan></text>
+<rect id="label2_bg" class="for_r2" x="-154.03" y="415.36084" width="152.88333" height="43.32001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-7.51333" y="437.27083" font-weight="400" font-size="14.4px" dy="-4.91">BangaloreRoomi Post<tspan x="-7.51333" dy="19.32" font-weight="400" font-size="17.6px">4</tspan></text>
+<rect id="label3_bg" class="for_r3" x="245.57666" y="34.9025" width="186.5" height="43.32" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="middle" x="338.82667" y="56.8125" font-weight="400" font-size="14.4px" dy="-4.91">Saw the place (twitter lead)<tspan x="338.82667" dy="19.32" font-weight="400" font-size="17.6px">3</tspan></text>
+<rect id="label4_bg" class="for_r4" x="512.38669" y="134.94417" width="76.53332" height="43.32001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="518.75333" y="156.85417" font-weight="400" font-size="14.4px" dy="-4.91">Went cold<tspan x="518.75333" dy="19.32" font-weight="400" font-size="17.6px">7</tspan></text>
+<rect id="label5_bg" class="for_r5" x="512.38669" y="348.61084" width="167.66668" height="43.32001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="518.75333" y="370.52083" font-weight="400" font-size="14.4px" dy="-4.91">Didn't move fast enough<tspan x="518.75333" dy="19.32" font-weight="400" font-size="17.6px">3</tspan></text>
+<rect id="label6_bg" class="for_r6" x="241.56" y="528.31921" width="194.53335" height="43.31995" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="middle" x="338.82667" y="550.22917" font-weight="400" font-size="14.4px" dy="-4.91">Saw the place (discord lead)<tspan x="338.82667" dy="19.32" font-weight="400" font-size="17.6px">2</tspan></text>
+<rect id="label7_bg" class="for_r7" x="512.38669" y="481.7775" width="137.21667" height="43.32004" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="518.75333" y="503.6875" font-weight="400" font-size="14.4px" dy="-4.91">Didn't like the place<tspan x="518.75333" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label8_bg" class="for_r8" x="512.38669" y="588.11084" width="89.34997" height="43.31995" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="518.75333" y="610.02083" font-weight="400" font-size="14.4px" dy="-4.91">Won the flat<tspan x="518.75333" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+</g>
+</g></svg>
